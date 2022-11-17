@@ -1,8 +1,8 @@
 
-<?php
+<!-- <?php
     session_start();
     $con = mysqli_connect("localhost", "root", "", "trinfosoft_entertainment");
-?>
+?> -->
 <!DOCTYPE html>
 <html>
 <head>
